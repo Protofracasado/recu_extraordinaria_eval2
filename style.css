@@ -1,0 +1,64 @@
+*{ 
+    text-align: center;
+}
+
+html{
+    background-color: rgb(245, 237, 190);
+}
+
+div.enlaces{
+    background-color: lightblue;
+}
+
+img.empresa1{
+    float: left;
+}
+
+p.uno{
+    text-align: start;
+    background-color: white;
+    color: blue;
+}
+
+div.primero{
+    background-color: blue;
+}
+
+main{
+    background-color: white;
+}
+
+article{
+    background-color: lightblue;
+}
+
+div.segundo {
+    background-color: red;
+}
+
+img.empresa2{
+    float: right;
+    width: 300px;
+    height: 170px;
+}
+
+p.dos{
+    text-align: start;
+    background-color: lightblue;
+    color: red;
+}
+
+a.groc{
+    background-color: yellow;
+}
+
+a.tachado{
+    text-decoration: line-through;
+}
+
+div.cuestionario{
+    text-align: left;
+    margin-left: 600px;
+    background-color: lightblue;
+    margin-right: 600px;
+}
